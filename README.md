@@ -1,1 +1,1 @@
-# Olivetti-Image-analysis-using-PCA-model
+# Implementation of PCA model for feature extraction
